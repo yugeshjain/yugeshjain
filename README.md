@@ -10,6 +10,8 @@ I have  experience working with Android, Kotlin, Flutter and Kotlin Multiplatfor
 
 ## 🎬 Projects:
 
+[Hello Eyes - Eve-wear and Eve Scanner Application](https://play.google.com/store/apps/details?id=co.helloeyes.mobileapp)
+
 [Harvest Clone - Kotlin multiplatform project](https://github.com/mutualmobile/HarvestTimeKMP)
 
 [Discord Clone - Discord App Clone](https://github.com/oianmol/DiscordJetpackCompose)

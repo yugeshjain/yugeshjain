@@ -34,4 +34,9 @@ I have worked for clients like
 1. 1800 Contacts (Hello Eyes)
 2. Anderson Columbia
 
+## Connect with me 🌏
+🚀 [Site](https://yugeshjain.com) <br>
+🐦 [Twitter](https://x.com/yugeshjain) <br>
+💼 [LinkedIn](https://linkedin.com/in/yugeshjain) <br>
+
 [![](https://visitcount.itsvg.in/api?id=yugeshjain&icon=0&color=1)](https://visitcount.itsvg.in)
